@@ -1,7 +1,6 @@
 "use strict";
 
-//=============== The “for” loop
-let num = 100;
+//=============== Conditional branching: if, 
 
 if (num > 100) {
     console.log("its > 100");  
@@ -11,7 +10,8 @@ if (num > 100) {
     console.log("its ok");
 }
 
-//=================== ternary operator
+//=================== ternary operator '?'
+let num = 100;
 
 (num ===50) ? console.log("Ok") : console.log("Error");
 
