@@ -1,0 +1,34 @@
+1.Variables, Data type, interaction, Template literals, Operators
+2.my first console app chapter-1
+3.Conditional branching: if, '?', Ternary operator, The switch case sta…
+4.Loops: while, do while and for
+5.my first console app chapter-2
+6.Functions: function/declaration/expression/Arrow
+7.Methods and properties of strings and numbers
+8.my first console app chapter-3
+9.trim() method
+10.Callback
+11.Array
+12.copy object and array, spread operator
+13.OOP, __proto__, setPrototypeOf, Object.create
+14.my first console app chapter-4
+
+
+
+
+---------VS Code list plagen------
+All Autocomplete
+Auto Close Tag
+Auto Complete Tag
+Auto Rename Tag
+Code Runner
+Import Cost
+JavaScript (ES6) code snippets
+jshint
+Live Server
+Multiple clipboards for VSCode
+Reactjs code snippets
+Sass
+Theme - Oceanic Next
+vscode-icons
+
