@@ -12,7 +12,8 @@
 12.copy object and array, spread operator
 13.OOP, __proto__, setPrototypeOf, Object.create
 14.my first console app chapter-4
-
+15.my first console app chapter-4
+16.dynamic typing
 
 
 
