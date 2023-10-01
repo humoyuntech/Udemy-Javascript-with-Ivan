@@ -14,7 +14,7 @@
 14.my first console app chapter-4
 15.my first console app chapter-4
 16.dynamic typing
-
+17. Debugging
 
 
 ---------VS Code list plagen------
