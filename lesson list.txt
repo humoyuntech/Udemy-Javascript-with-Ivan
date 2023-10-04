@@ -11,10 +11,11 @@
 11.Array
 12.copy object and array, spread operator
 13.OOP, __proto__, setPrototypeOf, Object.create
-14.my first console app chapter-4
+14.OOP, __proto__, setPrototypeOf, Object.create
 15.my first console app chapter-4
 16.dynamic typing
 17. Closures
+18.Searching: getElement*, querySelector* / Modifying the document
 
 
 ---------VS Code list plagen------
