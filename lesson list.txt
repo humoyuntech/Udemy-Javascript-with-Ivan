@@ -10,7 +10,7 @@
 10.Callback
 11.Array
 12.copy object and array, spread operator
-13.OOP, __proto__, setPrototypeOf, Object.create
+13.OOP, copy object and array, spread operator
 14.OOP, __proto__, setPrototypeOf, Object.create
 15.my first console app chapter-4
 16.dynamic typing
