@@ -31,7 +31,7 @@ const box = document.getElementById('box'),
 
 // === Teradigan metodlar orqali o'zgartirish
 
-// hearts.forEach(item => {
+// hearts.forEach(item => {te
 //     console.log(item);
 //     item.style.backgroundColor = 'blue';
 // });
