@@ -16,6 +16,7 @@
 16.dynamic typing
 17. Closures
 18.Searching: getElement*, querySelector* / Modifying the document
+19. Practic: Modifying the web document
 
 
 ---------VS Code list plagen------
