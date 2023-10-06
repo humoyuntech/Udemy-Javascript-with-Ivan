@@ -17,6 +17,7 @@
 17. Closures
 18.Searching: getElement*, querySelector* / Modifying the document
 19. Practic: Modifying the web document
+20.
 
 
 ---------VS Code list plagen------
