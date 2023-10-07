@@ -8,13 +8,13 @@
 8.my first console app chapter-3
 9.trim() method
 10.Callback
-11.Array
-12.copy object and array, spread operator
-13.OOP, copy object and array, spread operator
+11.Object
+12.Array
+13.copy object and array, spread operator
 14.OOP, __proto__, setPrototypeOf, Object.create
 15.my first console app chapter-4
 16.dynamic typing
-17. Closures
+17. Closures / Замыкания
 18.Searching: getElement*, querySelector* / Modifying the document
 19. Practic: Modifying the web document
 20.events and their js handlers
