@@ -19,6 +19,8 @@
 19. Practic: Modifying the web document
 20.events and their js handlers
 21.data attribute js
+22.Recursion in JS
+23.Practic: Modifying the web document-2
 
 
 ---------VS Code list plagen------
