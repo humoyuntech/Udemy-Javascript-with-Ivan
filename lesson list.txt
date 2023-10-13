@@ -21,6 +21,7 @@
 21.data attribute js
 22.Recursion in JS
 23.Practic: Modifying the web document-2
+24.Touch events
 
 
 ---------VS Code list plagen------
