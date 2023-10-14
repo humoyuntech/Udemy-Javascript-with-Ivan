@@ -22,6 +22,7 @@
 22.Recursion in JS
 23.Practic: Modifying the web document-2
 24.Touch events
+25.Nullish coalescing operator '??'
 
 
 ---------VS Code list plagen------
