@@ -22,14 +22,18 @@ console.log(game ?? game2);
 console.log(game ?? game3);
 console.log(game ?? game2 ?? game3);
 
+
 let user;
 console.log(user ?? "Guest");
 console.log(user || "Guest");
 
+console.clear();
 let score = 0; // false
+let score2 = " "; // false
 
 console.log(score || "no score registered"); // no score registered
 console.log(score ?? "no score registered"); // 0
+console.log(score2 ?? "no score registered"); // 0
 /**
  * Nullish qiymati bor tarafni qaytaradi 0 bo'lsaham
  */
@@ -40,7 +44,7 @@ console.log(score ?? "no score registered"); // 0
  */
 
 // ==========================================
-console.clear();
+
 let a = "gilfayle",
     b = 42,
     c = null,
