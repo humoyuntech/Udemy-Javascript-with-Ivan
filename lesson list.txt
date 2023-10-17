@@ -23,6 +23,7 @@
 23.Practic: Modifying the web document-2
 24.Touch events
 25.Nullish coalescing operator '??'
+26.Optional chaining (?.)/Оператор опциональной последовательности
 
 
 ---------VS Code list plagen------
