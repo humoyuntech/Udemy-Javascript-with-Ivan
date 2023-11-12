@@ -24,6 +24,8 @@
 24.Touch events
 25.Nullish coalescing operator '??'
 26.Optional chaining (?.)/Оператор опциональной последовательности
+27.classList, matches, Event delegation
+
 
 
 ---------VS Code list plagen------
