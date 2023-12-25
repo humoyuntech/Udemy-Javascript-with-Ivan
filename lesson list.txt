@@ -25,6 +25,7 @@
 25.Nullish coalescing operator '??'
 26.Optional chaining (?.)/Оператор опциональной последовательности
 27.classList, matches, Event delegation
+28.Food project-1: Tabs in JS
 
 
 
