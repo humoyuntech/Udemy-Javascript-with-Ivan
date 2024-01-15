@@ -28,7 +28,7 @@
 28.Food project-1: Tabs in JS
 29. setTimeout and setInterval
 30.Garbage Collector and WeakMap и WeakSet
-
+31.Date
 
 
 ---------VS Code list plagen------
@@ -47,3 +47,4 @@ Sass
 Theme - Oceanic Next
 vscode-icons
 
+Oceanic Next-qora
