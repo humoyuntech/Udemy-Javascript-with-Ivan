@@ -31,6 +31,10 @@
 31.Date
 32.Food project-2: Countdown timer
 33.Food project-3:Processing a past date in JS
+34.Document parameters, windows and working with them - Параметры документа, окна и работа с ними
+
+
+
 ---------VS Code list plagen------
 All Autocomplete
 Auto Close Tag
