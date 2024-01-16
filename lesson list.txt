@@ -30,7 +30,7 @@
 30.Garbage Collector and WeakMap и WeakSet
 31.Date
 32.Food project-2: Countdown timer
-
+33.Food project-3:Processing a past date in JS
 ---------VS Code list plagen------
 All Autocomplete
 Auto Close Tag
