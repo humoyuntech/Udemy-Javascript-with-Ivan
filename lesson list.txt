@@ -29,7 +29,7 @@
 29. setTimeout and setInterval
 30.Garbage Collector and WeakMap и WeakSet
 31.Date
-
+32.Food project-2: Countdown timer
 
 ---------VS Code list plagen------
 All Autocomplete
