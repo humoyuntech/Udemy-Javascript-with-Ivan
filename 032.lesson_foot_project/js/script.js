@@ -47,7 +47,7 @@ tabsParent.addEventListener('click', (event) =>{
 
 //================> end tabs
 //================> Timer
-const deadline = '2024-01-18';
+const deadline = '2025-01-01';
 
 function getTimeRemaining(endtime) {
     const t = Date.parse(endtime) - Date.parse(new Date());
