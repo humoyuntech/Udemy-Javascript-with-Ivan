@@ -47,7 +47,7 @@ tabsParent.addEventListener('click', (event) =>{
 
 //================> end tabs
 //================> Timer
-const deadline = '2024-01-11';
+const deadline = '2025-01-01';
 
 function getTimeRemaining(endtime) {
     let days, hours, minutes, seconds;
@@ -60,10 +60,10 @@ function getTimeRemaining(endtime) {
         seconds = 0;
 
     }else{
-    const days = Math.floor(t / (1000 * 60 * 60 * 24));
-    const hours = Math.floor((t / (1000 * 60 * 60) % 24));
-    const minutes = Math.floor((t / 1000 /60) % 60);
-    const seconds = Math.floor((t / 1000) % 60);
+        days = Math.floor(t / (1000 * 60 * 60 * 24));
+        hours = Math.floor((t / (1000 * 60 * 60) % 24));
+        minutes = Math.floor((t / 1000 /60) % 60);
+        seconds = Math.floor((t / 1000) % 60);
     }
 
     return {
