@@ -34,6 +34,8 @@
 34.Document parameters, windows and working with them - Параметры документа, окна и работа с ними
 35.Food project-4:Creating a modal window
 36.Food project-5:Modifications of the modal window
+37.Constructor, operator 'new'
+
 
 
 ---------VS Code list plagen------
