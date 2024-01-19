@@ -38,6 +38,7 @@
 38.Call Context. This/Контекст вызова. This
 39.Classes
 40.Food project-10:Using classes in real work
+41.1Rest operator and default parameters (ES6)
 
 
 ---------VS Code list plagen------
