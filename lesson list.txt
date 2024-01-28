@@ -37,9 +37,9 @@
 37.Constructor, operator 'new'
 38.Call Context. This/Контекст вызова. This
 39.Classes
-40.Food project-10:Using classes in real work
-41.1Rest operator and default parameters (ES6)
-
+40.Food project-6:Using classes in real work
+41.1.Rest operator and default parameters (ES6)
+41.2.Food project-7:Use the Rest operator
 
 ---------VS Code list plagen------
 All Autocomplete
@@ -58,3 +58,9 @@ Theme - Oceanic Next
 vscode-icons
 
 Oceanic Next-qora
+
+/*
+- o'chirilgan extensenlar
+
+All Autocomplete
+*/
