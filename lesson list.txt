@@ -40,6 +40,7 @@
 40.Food project-6:Using classes in real work
 41.1.Rest operator and default parameters (ES6)
 41.2.Food project-7:Use the Rest operator
+42.JSON
 
 ---------VS Code list plagen------
 All Autocomplete
