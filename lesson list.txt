@@ -42,6 +42,7 @@
 41.2.Food project-7:Use the Rest operator
 42.JSON
 43.AJAX, XMLHttpRequest()
+44.Food project-8:sending data to the server (local servers should be used)
 
 ---------VS Code list plagen------
 All Autocomplete
