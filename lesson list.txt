@@ -41,6 +41,7 @@
 41.1.Rest operator and default parameters (ES6)
 41.2.Food project-7:Use the Rest operator
 42.JSON
+43.AJAX, XMLHttpRequest()
 
 ---------VS Code list plagen------
 All Autocomplete
