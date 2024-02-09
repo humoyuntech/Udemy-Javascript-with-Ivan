@@ -221,6 +221,4 @@ window.addEventListener("DOMContentLoaded", () => {
         '.menu .container'
     ).render();
 
-
-
 });
