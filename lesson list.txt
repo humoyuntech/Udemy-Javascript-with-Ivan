@@ -47,6 +47,7 @@
 46.Promise
 47.1.Fetch API
 47.2.Food project-8:putting the Fetch API into practice
+48.Method of Array:filter(), map(), reduce(), entries()
 
 ---------VS Code list plagen------
 All Autocomplete
