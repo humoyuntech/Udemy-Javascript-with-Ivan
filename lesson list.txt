@@ -44,6 +44,7 @@
 43.AJAX, XMLHttpRequest()
 44.Food project-8:sending data to the server (local servers should be used)
 45.Food project-9:Beautiful user notification
+46.Promise
 
 ---------VS Code list plagen------
 All Autocomplete
