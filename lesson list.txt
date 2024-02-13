@@ -50,6 +50,7 @@
 48.Method of Array:filter(), map(), reduce(), entries()
 49.Food project-9: JSON-server, Async/Await, axios
 50.Food project-10: Creating a slider on the site, option 1
+51.Food project-11: Creating a slider on the site, option 2
 
 
 
