@@ -51,7 +51,7 @@
 49.Food project-9: JSON-server, Async/Await, axios
 50.Food project-10: Creating a slider on the site, option 1
 51.Food project-11: Creating a slider on the site, option 2
-
+52.Food project-12: Creating navigation for slides
 
 
 ---------VS Code list plagen------
