@@ -53,6 +53,8 @@
 51.Food project-11: Creating a slider on the site, option 2
 52.Food project-12: Creating navigation for slides
 53.localStorage
+54.1.Regular expressions
+
 
 
 ---------VS Code list plagen------
