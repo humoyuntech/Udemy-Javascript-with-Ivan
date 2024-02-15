@@ -54,6 +54,7 @@
 52.Food project-12: Creating navigation for slides
 53.localStorage
 54.1.Regular expressions
+54.2.Food project-13:Regular expressions
 
 
 
