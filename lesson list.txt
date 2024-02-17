@@ -59,6 +59,7 @@
 55.2.Food project-14:Creating a calculator on the site, part 2
 56.get/set
 57.Encapsulation/Инкапсуляция
+58.IIFE -immediately invoked function expression
 
 
 ---------VS Code list plagen------
