@@ -60,6 +60,7 @@
 56.get/set
 57.Encapsulation/Инкапсуляция
 58.IIFE -immediately invoked function expression
+59.
 
 
 ---------VS Code list plagen------
