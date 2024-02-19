@@ -60,7 +60,7 @@
 56.get/set
 57.Encapsulation/Инкапсуляция
 58.IIFE -immediately invoked function expression
-59.
+59.webpack 
 
 
 ---------VS Code list plagen------
