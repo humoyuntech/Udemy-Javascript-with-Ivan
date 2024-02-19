@@ -60,7 +60,8 @@
 56.get/set
 57.Encapsulation/Инкапсуляция
 58.IIFE -immediately invoked function expression
-59.webpack 
+59.Webpack 
+60.Food project-15:Webpack, Assembling our project
 
 
 ---------VS Code list plagen------
