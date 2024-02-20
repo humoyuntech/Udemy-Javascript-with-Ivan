@@ -14,7 +14,7 @@ try {
 
 console.log("agar xato bo'lsa o'zidan keyingi kodni blocklamaydi");
 
-// 6:34
+
 
 
 
