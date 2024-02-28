@@ -68,6 +68,8 @@
 64.throw
 65.Food project-16 The End:How to turn ES6+ code into the old ES5 format. Babel, Core.js and polyfills
 66.jQuery
+67.generator function
+68.Property flags and descriptors
 
 
 
