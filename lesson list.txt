@@ -73,9 +73,6 @@
 69.Map, Set
 70.BigInt
 
-
-
-
 ---------VS Code list plagen------
 All Autocomplete
 Auto Close Tag
@@ -91,11 +88,3 @@ Reactjs code snippets
 Sass
 Theme - Oceanic Next
 vscode-icons
-
-Oceanic Next-qora
-
-/*
-- o'chirilgan extensenlar
-
-All Autocomplete
-*/
