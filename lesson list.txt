@@ -71,6 +71,7 @@
 67.generator function
 68.Property flags and descriptors
 69.Map, Set
+70.BigInt
 
 
 
