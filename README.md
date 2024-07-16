@@ -1,4 +1,4 @@
-1.Variables, Data type, interaction, Template literals, Operators
+[1.Variables, Data type, interaction, Template literals, Operators
 2.my first console app chapter-1
 3.Conditional branching: if, '?', Ternary operator, The switch case sta…
 4.Loops: while, do while and for
@@ -72,3 +72,4 @@
 68.Property flags and descriptors
 69.Map, Set
 70.BigInt
+](https://www.udemy.com/course/javascript_full/?couponCode=THANKSLEARNER24)
